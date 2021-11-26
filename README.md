@@ -12,4 +12,18 @@
 
 [Test Data](https://drive.google.com/file/d/1Hbe81PaTQ7DlPAgAtUfT5b6IJnLZDZfG/view?usp=sharing)
 
+###__Sources__: 
+
+__Youtube:__ 
+
+1. [Yolov4_Cloud](https://youtu.be/mmj3nxGT2YQ)
+2. [generate open image dataset](https://www.youtube.com/watch?v=_4A9inxGqRM)
+3. [custom labels and annotations](https://www.youtube.com/watch?v=EGQyDla8JNU)
+4. [counting objects](https://www.youtube.com/watch?v=jDwC5m7c7BU&t=394s)
+
+__Github:__
+
+1. [Yolov4Cloud](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial)
+2. [counting objects](https://github.com/theAIGuysCode/yolov4-custom-functions)
+
 
