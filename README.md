@@ -1,12 +1,8 @@
 # Bird-Detection-with-Deep-Learning
 
-## Single Shot Object-Detection
-
-Notebook to use SSD object detection in ArcGIS with arcpy and arcgis.learn module
-
 ## RetinaNet
 
-Notebook to use RetinaNet object detection in ArcGIS with arcpy and arcgis.learn module
+[Notebook to use RetinaNet object detection in ArcGIS with arcpy and arcgis.learn module](https://github.com/jona159/Bird-Detection-with-Deep-Learning/tree/main/RetinaNet)
 
 ## YOLOv4
 
