@@ -12,6 +12,4 @@
 
 [Test Data](https://drive.google.com/file/d/1Hbe81PaTQ7DlPAgAtUfT5b6IJnLZDZfG/view?usp=sharing)
 
-## Mask R-CNN
 
-Notebook to use Mask R-CNN object detection and species classification in ArcGIS
